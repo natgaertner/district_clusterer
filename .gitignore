@@ -1,0 +1,8 @@
+csvs/
+venv/
+clusters/
+districts/
+*.pyc
+*~
+*.bkp
+*.png
